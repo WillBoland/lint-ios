@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D20D620267F7F8F0031E2E7 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D20D61F267F7F8F0031E2E7 /* LoginViewController.swift */; };
-		1D20D622267F7FA30031E2E7 /* signup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D20D621267F7FA30031E2E7 /* signup.swift */; };
+		1D20D622267F7FA30031E2E7 /* SignupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D20D621267F7FA30031E2E7 /* SignupViewController.swift */; };
 		1D318295267EF9180046ABBB /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D318294267EF9180046ABBB /* User.swift */; };
 		1D4F3D0D267EEC6800C932B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4F3D0C267EEC6800C932B0 /* AppDelegate.swift */; };
 		1D4F3D0F267EEC6800C932B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D4F3D0E267EEC6800C932B0 /* SceneDelegate.swift */; };
@@ -22,7 +22,7 @@
 
 /* Begin PBXFileReference section */
 		1D20D61F267F7F8F0031E2E7 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
-		1D20D621267F7FA30031E2E7 /* signup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = signup.swift; sourceTree = "<group>"; };
+		1D20D621267F7FA30031E2E7 /* SignupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignupViewController.swift; sourceTree = "<group>"; };
 		1D318294267EF9180046ABBB /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		1D4F3D09267EEC6800C932B0 /* lint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = lint.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D4F3D0C267EEC6800C932B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -52,7 +52,7 @@
 			children = (
 				1D4F3D10267EEC6800C932B0 /* UserViewController.swift */,
 				1D20D61F267F7F8F0031E2E7 /* LoginViewController.swift */,
-				1D20D621267F7FA30031E2E7 /* signup.swift */,
+				1D20D621267F7FA30031E2E7 /* SignupViewController.swift */,
 			);
 			path = "View Controllers";
 			sourceTree = "<group>";
@@ -181,7 +181,7 @@
 				1D60E908267F06180043E532 /* Video.swift in Sources */,
 				1D4F3D11267EEC6800C932B0 /* UserViewController.swift in Sources */,
 				1D4F3D0D267EEC6800C932B0 /* AppDelegate.swift in Sources */,
-				1D20D622267F7FA30031E2E7 /* signup.swift in Sources */,
+				1D20D622267F7FA30031E2E7 /* SignupViewController.swift in Sources */,
 				1D318295267EF9180046ABBB /* User.swift in Sources */,
 				1D4F3D0F267EEC6800C932B0 /* SceneDelegate.swift in Sources */,
 			);
