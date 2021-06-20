@@ -7,6 +7,8 @@
 
 import Foundation
 
-class User {
-  
+/// User holds information about a specific user.
+struct User {
+  let username: String
+  let displayName: String
 }
