@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  UserViewController.swift
 //  lint
 //
 //  Created by Will Boland on 6/19/21.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class UserViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
